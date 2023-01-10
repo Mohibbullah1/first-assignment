@@ -1,0 +1,243 @@
+*{
+
+}
+.header{
+                                margin: auto;
+
+                                font-family: 'Work Sans', sans-serif;
+}
+.header-tittle{
+                                position: absolute;
+                                width: 525px;
+                                height: 228px;
+                                left: 845px;
+                                top: 216px;
+                                font-weight: 700;
+                                font-size: 65px;
+                                line-height: 76px;
+                                text-align: right;
+                                
+
+
+
+}
+.header-paragraph{
+                                position: absolute;
+                                width: 494px;
+                                height: 78px;
+                                left: 876px;
+                                top: 478px;
+                                font-weight: 400;
+                               font-size: 16px;
+                               line-height: 26px;
+                               text-align: right;
+                               color: #444343
+}
+.btn-primary{
+                                position: absolute;
+                                width: 130px;
+                                height: 64px;
+                                left: 1210px;
+                                top: 578px;
+                                font-size: 20px;
+                                color:white;
+                                background: #F15B22;
+                                border-radius: 5px;
+                                border-style: hidden;
+}
+.Aboutme{
+                                position: absolute;
+                                width: 569px;
+                                height: 723px;
+                                left: 150px;
+                                top: 942px;   
+                                          
+}
+.profile-info{
+                                position: absolute;
+                                width: 288px;
+                               height: 94px;
+                                left: 650px;
+                               top: 200px;
+                               font-weight: 700;
+                               font-size: 40px;
+                                line-height: 47px;       
+}
+.profile-paragraph{
+                                position: absolute;
+                                width: 361px;
+                                height: 130px;
+                                left: 650px;
+                                 top: 350px;
+                                font-weight: 400;
+                                font-size: 16px;
+                                line-height: 26px;
+
+
+                               color: #444343;
+}
+.profile-describe{
+                                position: absolute;
+                                 height: 26px;
+                                width: 349px;
+                                left: 862px;
+                                top: 618px;
+                                border-radius: 0px;
+                               
+
+}
+.profile-describe{
+                                position: absolute;
+                                width: 349px;
+                                height: 26px;
+                                left: 550px;
+                                top: 438px;
+}
+.profile-describe img{
+
+                                 width: 24px;
+                                 height: 24px;
+                                 left: 5px;
+                                 margin-top: 20px;
+}
+.plan-sec{
+                               display: flex;
+                               margin-top: 1233px;
+                               justify-content: center;
+                               gap: 160px;  
+}      
+.plan-tittle{
+                                position: absolute;
+                                top: 1850px;
+                                font-weight: 700;
+                                font-size: 40px;
+                                line-height: 47px;
+}   
+.middle-section{
+                             position: absolute;
+                             
+                                 width: 1140px;
+                              height: 300px;
+                                left:  150px;
+                              top: 2500px;
+                             background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%), url(./images/watch.png);
+                              
+}
+
+.possitive{
+                                position: absolute;
+                                width: 459px;
+                                height: 94px;
+                                left: 100px;
+                                top: 50px;
+                                
+                               
+                                font-weight: 700;
+                                font-size: 40px;
+                                line-height: 47px;
+}
+.btn-middle{
+                                position: absolute;
+                                width: 100px;
+                                height: 45px;
+                                left: 104px;
+                                top: 190px;
+                                color: #F15B22;
+                                background-color: white;
+                                border-radius: 5px;
+                                border-style: hidden;
+}
+
+
+.Future-section{
+                                position: absolute;
+                                 width: 1600px;
+                               height: 577px;
+                               left: 0px;
+                               top: 3000px;
+
+
+
+background: #151414
+
+
+}
+.future-header{
+                                position: absolute;
+                               width: 148px;
+                                height: 53px;
+                                  left: 230px;
+                                    top: 100px;
+
+
+                                    font-weight: 700;
+                                    font-size: 45px;
+                                    line-height: 53px;
+                                    color:white;
+
+
+}
+.future-describe{
+                                position: absolute;
+                                width: 485px;
+                                height: 78px;
+                                left: 230px;
+                                top: 180px;
+                                
+                                font-weight: 400;
+                                font-size: 16px;
+                                line-height: 26px;
+                                color: white;
+}
+.email-phone{
+                                position: absolute;
+                                width: 485px;
+                                height: 78px;
+                                left: 230px;
+                                top: 300px;
+                                
+                                font-weight: 400;
+                                font-size: 16px;
+                                line-height: 26px;
+                                color: white;  
+                                      
+}
+.submit-form{
+                                position: absolute;
+                                width: 325px;
+                                height: 45px;
+                                left: 1000px;
+                                top: 3100px;
+                                
+                                font-weight: 400;
+                                font-size: 45px;
+                                line-height: 26px;
+                                color: white;
+                                display: grid;
+}
+.input-email{
+                                position: absolute;
+                                width: 325px;
+                                height: 30px;
+                                left: 5px;
+                                top: 115px;     
+}
+.subscribe-btn{
+                                
+                               position: absolute;
+                               width: 90px;
+                               height: 30px;
+                               left: 5px;
+                               top: 170px;
+}
+.header-line{
+                               
+                                width: 325px;
+                                height: 45px;
+                                left: 200px;
+                           top: 50px; 
+                                
+                             
+                                color:white;
+                                        
+}
