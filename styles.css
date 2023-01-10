@@ -48,8 +48,8 @@
 .Aboutme{
                                 position: absolute;
                                 width: 569px;
-                                height: 723px;
-                                left: 150px;
+                                height:723px;
+                                left: 270px;
                                 top: 942px;   
                                           
 }
@@ -80,7 +80,7 @@
                                 position: absolute;
                                  height: 26px;
                                 width: 349px;
-                                left: 862px;
+                                left: 662px;
                                 top: 618px;
                                 border-radius: 0px;
                                
@@ -90,14 +90,14 @@
                                 position: absolute;
                                 width: 349px;
                                 height: 26px;
-                                left: 550px;
-                                top: 438px;
+                                left: 650px;
+                                top: 450px;
 }
 .profile-describe img{
 
                                  width: 24px;
-                                 height: 24px;
-                                 left: 5px;
+                                 height: 30px;
+                                 left: 15px;
                                  margin-top: 20px;
 }
 .plan-sec{
